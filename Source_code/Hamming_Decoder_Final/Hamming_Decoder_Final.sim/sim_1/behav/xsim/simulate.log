@@ -1,0 +1,10 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+time                    0: data3=1,data2=0,data1=1,data0=0
+
+time                 5000: data3=0,data2=1,data1=0,data0=1
+
+time                10000: data3=0,data2=0,data1=1,data0=1
+
+time                15000: data3=0,data2=1,data1=1,data0=1
+
